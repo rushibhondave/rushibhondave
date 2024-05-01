@@ -4,15 +4,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushibhondave&label=Profile%20views&color=0e75b6&style=flat" alt="rushibhondave" /> </p>
 
-- 🌱 I’m currently learning **PG-Dac(IET C-DAC ACTS ATC, Pune)**
+<h3 align="left"> ##  💼 About Me:</h3>
+- 💼 I’m currently learning **PG-Dac(IET C-DAC ACTS ATC, Pune)**
 
 - 🤝 IBM SkillsBuild Internship ( AICTE) [Bitcoin exchange app](https://bitcoin-created-by-rushi-bhondave.netlify.app/)
 
-- 💬 Ask me about **Ping me about design, web apps, and DSA.**
+- 👯 I’m looking to collaborate on exciting and innovative software development projects.
+
+- 💬 Ask me about **Ping me about design, web development, Java, or problem-solving! **
 
 - 📫 How to reach me **https://www.linkedin.com/in/rushikesh-bhondave**
 
-- ⚡ Fun fact **I'm Code & Humor Blooded**
+- 💡  fact **I'm Coder & Humor Blooded**
 
 <h3 align="left"> ## 📫 Connect with me:</h3>
 <p align="left">
@@ -30,7 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rushibhondave&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=rushibhondave&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=rushibhondave&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=6&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushibhondave&radius=16&theme=redical&area=true&order=5" height="271" alt="activity-graph graph"  />
 </div>
 
 ###
