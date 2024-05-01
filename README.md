@@ -1,3 +1,4 @@
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQGTr3MWEM2Jrg/profile-displaybackgroundimage-shrink_350_1400/0/1709708528424?e=1720051200&v=beta&t=dZ8o06KVrX9NvHhR6KeXVNb7zVkJHSQPZ76PySTy2is)]
 <h1 align="center">Hi 👋, I'm Rushikesh Bhondave</h1>
 <h3 align="center">Passionate problem solver & web app developer dedicated to continuous improvement, enhancing the user experience through dynamic solutions. Actively learning, innovating, and seeking opportunities to contribute to innovative projects in software development.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
