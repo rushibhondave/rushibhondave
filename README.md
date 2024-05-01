@@ -10,12 +10,12 @@
 - 🤝 IBM SkillsBuild Internship ( AICTE) [Bitcoin exchange app](https://bitcoin-created-by-rushi-bhondave.netlify.app/)
 
 - 👯 I’m looking to collaborate on exciting and innovative software development projects.
-
+ 
 - 💬 Ask me about Ping me about design, web development, Java, or problem-solving!
 
-- 📫 How to reach me **https://www.linkedin.com/in/rushikesh-bhondave**
+- 📫 How to reach me **https://www.linkedin.com/in/rushikesh-bhondave** <a href="[url](https://github.com/rushibhondave/rushibhondave/issues)">Here Also </a>
 
-- 💡  fact **I'm Coder & Humor Blooded**
+
 
 <h3 align="left"> ## 📫 Connect with me:</h3>
 <p align="left">
