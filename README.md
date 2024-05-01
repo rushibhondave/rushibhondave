@@ -13,7 +13,7 @@
  
 - 💬 Ask me about Ping me about design, web development, Java, or problem-solving!
 
-- 📫 How to reach me **https://www.linkedin.com/in/rushikesh-bhondave** <a href="[url](https://github.com/rushibhondave/rushibhondave/issues)">Here Also </a>
+- 📫 How to reach me **https://www.linkedin.com/in/rushikesh-bhondave** <a href="[[url](https://github.com/rushibhondave/rushibhondave/issues)]">Here Also </a>
 
 
 
