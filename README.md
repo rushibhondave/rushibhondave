@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on exciting and innovative software development projects.
 
-- 💬 Ask me about **Ping me about design, web development, Java, or problem-solving! **
+- 💬 Ask me about Ping me about design, web development, Java, or problem-solving!
 
 - 📫 How to reach me **https://www.linkedin.com/in/rushikesh-bhondave**
 
@@ -25,7 +25,7 @@
 </p>
 
 <h3 align="left">  ##  🖥️ Languages and Tools:</h3>
-    ### Web Development
+  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -37,6 +37,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+ <p>**-[x]-**</p>
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
+
+###
 </div>
 
 
