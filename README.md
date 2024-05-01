@@ -37,9 +37,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    
-  <h6 align="left">Backend Development:</h6>
   <div align="left">
+  <h6 align="left">Backend Development:</h6>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -56,7 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
 </div>
 
-###
 </div>
 <h6 align="left">Databases:</h6>
 <div align="left">
@@ -66,9 +64,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
-###
-<h6 align="left">Other Skills:</h6>
+
+
 <div align="left">
+  <h6 align="left">Other Skills:</h6>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
@@ -81,9 +80,8 @@
   <img width="12" />
 
 </div>
-###
+
 </div>
-###
 
 <h3 align="left"> ## 📝 Github stats:</h3>
 <div align="center">
@@ -92,4 +90,4 @@
   <img src="https://streak-stats.demolab.com?user=rushibhondave&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=6&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
+
