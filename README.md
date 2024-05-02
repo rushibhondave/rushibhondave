@@ -7,13 +7,13 @@
 
 - 💼 I’m currently learning **PG-Dac(IET C-DAC ACTS ATC, Pune)**
 
-- 🤝 IBM SkillsBuild Internship ( AICTE) [Bitcoin exchange app](https://bitcoin-created-by-rushi-bhondave.netlify.app/)
+- 🤝 IBM SkillsBuild Internship (AICTE) [Bitcoin exchange app](https://bitcoin-created-by-rushi-bhondave.netlify.app/)
 
 - 👯 I’m looking to collaborate on exciting and innovative software development projects.
  
-- 💬 Ask me about Ping me about design, web development, Java, or problem-solving!
+- 💬 Ask me about Ping me about **design, web development, Java, or problem-solving!**
 
-- 📫 How to reach me **https://www.linkedin.com/in/rushikesh-bhondave** 
+- 📫 How to reach me **rushikeshbhondave99@gmail.com**
 
 
 <h3 align="left"> ## 📫 Connect with me:</h3>
