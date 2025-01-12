@@ -2,9 +2,9 @@
 <h3 align="center">Passionate problem solver & web app developer dedicated to continuous improvement, enhancing the user experience through dynamic solutions. Actively learning, innovating, and seeking opportunities to contribute to innovative projects in software development.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushibhondave&label=Profile%20views&color=0e75b6&style=flat" alt="rushibhondave" /> </p>
-- 💼 I’m currently learning **PG-DAC(IET C-DAC ACTS ATC, Pune)**
-  
-- 🤝 IBM SkillsBuild Internship (AICTE) [Bitcoin exchange app](https://bitcoin-created-by-rushi-bhondave.netlify.app/)
+- 💼 I completed a **Post Graduate Diploma in Advanced Computing** at **IET C-DAC ACTS ATC, Pune in 2024.**
+- 💼 I graduated in **Mechanical Engineering** from **Vishwakarma Institute of Information Technology, Pune.**
+- 🤝 I am currently working with Coherent Healthcare.
 
 - 👯 I’m looking to collaborate on exciting and innovative software development projects.
  
