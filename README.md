@@ -5,9 +5,9 @@
 
 - 💼 I completed a **Post Graduate Diploma in Advanced Computing  at IET C-DAC ACTS ATC, Pune in 2024**
 
-- 💼 I graduated in **Mechanical Engineering** from **Vishwakarma Institute of Information Technology, Pune.**
+- 💼 I graduated in **Mechanical Engineering** from **Vishwakarma Institute of Information Technology, Pune in 2023**
   
-- 🤝 I am currently working with Coherent Healthcare.
+- 🤝 I am currently working with **Coherent Healthcare.**
 
 - 👯 I’m looking to collaborate on exciting and innovative software development projects.
  
