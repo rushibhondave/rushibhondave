@@ -7,9 +7,9 @@
   
 - 💼 I completed a **Post Graduate Diploma in Advanced Computing  at IET C-DAC ACTS ATC, Pune in 2024**
   
-- 👨‍💻 I was an intern at *Coherent Healthcare.*
+- 👨‍💻 I was an intern at **Coherent Healthcare.**
   
-- 🚀 I am currently working at *EdgeVerve – an Infosys company.*
+- 🚀 I am currently working at **EdgeVerve – an Infosys company.**
 
 - 👯 I’m looking to collaborate on exciting and innovative software development projects.
  
