@@ -9,7 +9,7 @@
   
 - 👨‍💻 I was an intern at **Coherent Healthcare.**
   
-- 🚀 I am currently working at **EdgeVerve – an Infosys company.**
+- 🚀 I am currently working at **EdgeVerve – an Infosys company. As System Engineer **
 
 - 👯 I’m looking to collaborate on exciting and innovative software development projects.
  
