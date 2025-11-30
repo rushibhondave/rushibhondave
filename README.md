@@ -83,9 +83,7 @@
 
 </div>
 
-<h3 align="left"> ## 📝 Snake:</h3>
-<img src="https://raw.githubusercontent.com/rushibhondave/rushibhondave/output/snake.svg" alt="Snake animation" />
-###
+
 
 
 
